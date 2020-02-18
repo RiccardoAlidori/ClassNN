@@ -1,0 +1,1253 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"now",
+				"now2"
+			],
+			[
+				"mat",
+				"matplotlibcpp"
+			],
+			[
+				"get",
+				"getNeuron"
+			],
+			[
+				"getD",
+				"getDerivatedVal"
+			],
+			[
+				"delta",
+				"deltaError"
+			],
+			[
+				"train",
+				"trainOutMatrix"
+			],
+			[
+				"trai",
+				"trainingSetOrder"
+			],
+			[
+				"tr",
+				"trainingSetOrder"
+			],
+			[
+				"ed",
+				"endl"
+			],
+			[
+				"print",
+				"printNet"
+			],
+			[
+				"tra",
+				"trainInMatrix"
+			],
+			[
+				"co",
+				"cout"
+			],
+			[
+				"trin",
+				"trainInMatrix"
+			],
+			[
+				"row",
+				"rows"
+			],
+			[
+				"end",
+				"endl"
+			],
+			[
+				"fin",
+				"f_in"
+			],
+			[
+				"path",
+				"pathOut"
+			],
+			[
+				"traini",
+				"training"
+			],
+			[
+				"MAK",
+				"MAKEFILE_AUTHOR"
+			],
+			[
+				"c",
+				"cout"
+			],
+			[
+				"del",
+				"deltaError"
+			],
+			[
+				"wei",
+				"weights"
+			],
+			[
+				"layer",
+				"layerSize"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"neuron",
+				"neurons"
+			],
+			[
+				"set",
+				"setWeight"
+			],
+			[
+				"out",
+				"outVal"
+			],
+			[
+				"num",
+				"numLayer-1"
+			],
+			[
+				"Ne",
+				"Neuron"
+			],
+			[
+				"nu",
+				"neurons"
+			],
+			[
+				"pre",
+				"prevLayerSize"
+			],
+			[
+				"in",
+				"inVal"
+			],
+			[
+				"L",
+				"getLayerSize"
+			],
+			[
+				"ra",
+				"rndVal"
+			],
+			[
+				"usi",
+				"unsigned"
+			],
+			[
+				"vecotr",
+				"vector\tstandard header"
+			],
+			[
+				"Hi",
+				"hiddenWeights"
+			],
+			[
+				"hidde",
+				"hiddenWeights"
+			],
+			[
+				"numHi",
+				"numHiddenLayers"
+			],
+			[
+				"numhi",
+				"numHiddenLayers"
+			],
+			[
+				"Num",
+				"Number"
+			],
+			[
+				"hi",
+				"hiddenWeights"
+			],
+			[
+				"re",
+				"resize"
+			],
+			[
+				"hidden",
+				"hiddenLayerBias"
+			],
+			[
+				"NU",
+				"numHiddenLayer"
+			],
+			[
+				"numHidd",
+				"numHiddenLayer"
+			],
+			[
+				"t",
+				"topology"
+			],
+			[
+				"class",
+				"Classifying"
+			],
+			[
+				"x",
+				"xval"
+			],
+			[
+				"ou",
+				"outputWeights"
+			],
+			[
+				"Tm",
+				"tmpErr1"
+			],
+			[
+				"tmp",
+				"tmpErr"
+			],
+			[
+				"JAL",
+				"JALSel"
+			],
+			[
+				"ALU_",
+				"ALU_OUT"
+			],
+			[
+				"PC",
+				"PC_Size"
+			],
+			[
+				"ADD_RD2_FWD",
+				"ADD_RD2_FWD_ID"
+			],
+			[
+				"ADD_RD1_FWd",
+				"ADD_RD1_FWD_ID"
+			],
+			[
+				"ADD_WR_FWd",
+				"ADD_WR_FWD_ID"
+			],
+			[
+				"RS",
+				"RS2_ID"
+			],
+			[
+				"rs",
+				"RS1_ID"
+			],
+			[
+				"WR_",
+				"WR_EN_MEM"
+			],
+			[
+				"MEM",
+				"MEM_REG_CU"
+			],
+			[
+				"Z",
+				"Zero_Flag_CU"
+			],
+			[
+				"ALU",
+				"ALUSrc_CU"
+			],
+			[
+				"AL",
+				"ALUSrc_CU"
+			],
+			[
+				"F",
+				"Flush_CU"
+			],
+			[
+				"st",
+				"std_logic"
+			],
+			[
+				"Con",
+				"ControlUnit"
+			],
+			[
+				"Data",
+				"Datapath"
+			],
+			[
+				"IF",
+				"IF_Stage"
+			],
+			[
+				"ent",
+				"entity"
+			],
+			[
+				"WR",
+				"WR_EN_FWD"
+			],
+			[
+				"std",
+				"std_logic"
+			],
+			[
+				"sig",
+				"Signal"
+			],
+			[
+				"IMM",
+				"IMM_Shift"
+			],
+			[
+				"Imm",
+				"IMM"
+			],
+			[
+				"Im",
+				"IMM_Shift"
+			],
+			[
+				"J",
+				"J_type"
+			],
+			[
+				"U",
+				"U_type"
+			],
+			[
+				"SB",
+				"is_SB_Type"
+			],
+			[
+				"S",
+				"S_type"
+			],
+			[
+				"I",
+				"I_type"
+			],
+			[
+				"R",
+				"R_type"
+			],
+			[
+				"IN",
+				"INSTR"
+			],
+			[
+				"IR",
+				"IR_ADDR"
+			],
+			[
+				"s",
+				"std_logic"
+			],
+			[
+				"str",
+				"std_logic_vector"
+			],
+			[
+				"vecot",
+				"vector\tstandard header"
+			],
+			[
+				"erro",
+				"errorOutput"
+			],
+			[
+				"save",
+				"saveAnswer"
+			],
+			[
+				"sa",
+				"saveAnswer"
+			],
+			[
+				"to",
+				"token"
+			],
+			[
+				"fs",
+				"f_save"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"cl",
+				"close"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"inpu",
+				"numInputNodes"
+			],
+			[
+				"Buil",
+				"Building"
+			],
+			[
+				"outpu",
+				"outputLayer"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ABS",
+				"ABS_OUT"
+			],
+			[
+				"VAL",
+				"VAL_OUT"
+			],
+			[
+				"VA",
+				"VAL_IN_i"
+			],
+			[
+				"V",
+				"VAL_OUT"
+			],
+			[
+				"Zero",
+				"Zero_Flag_reg"
+			],
+			[
+				"CW",
+				"CW_IN"
+			],
+			[
+				"MUX",
+				"MUX21"
+			],
+			[
+				"RWD",
+				"RDW_IN"
+			],
+			[
+				"DRAM",
+				"DRAM_Data_Out"
+			],
+			[
+				"N",
+				"N-1"
+			],
+			[
+				"RD",
+				"RD2_IN"
+			],
+			[
+				"RD1",
+				"RD1_IN"
+			],
+			[
+				"OP",
+				"OP2_WB"
+			],
+			[
+				"OP1_",
+				"OP1_MEM"
+			],
+			[
+				"RDW",
+				"RDW_OUT_reg"
+			],
+			[
+				"std_lo",
+				"std_logic_vector"
+			],
+			[
+				"FW",
+				"FW_Sel2"
+			],
+			[
+				"A",
+				"ALU_OP1_In"
+			],
+			[
+				"C",
+				"Component"
+			],
+			[
+				"n",
+				"nRST_i"
+			],
+			[
+				"DRA",
+				"DRAM_Data_Out"
+			],
+			[
+				"DR",
+				"DRAM_Data_Out"
+			],
+			[
+				"DRAM_Dta",
+				"DRAM_Data_In_i"
+			],
+			[
+				"DRAM_d",
+				"DRAM_Data_In"
+			],
+			[
+				"nR",
+				"nRST_i"
+			],
+			[
+				"IRAM",
+				"IRAM_Data_Out_i"
+			],
+			[
+				"DT",
+				"DRAM_Data_In_i"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.cpp",
+			"settings":
+			{
+				"buffer_size": 873,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "#include <iostream>"
+			}
+		},
+		{
+			"file": "src/net.cpp",
+			"settings":
+			{
+				"buffer_size": 8711,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "#include \"include/matrix.hpp\""
+			}
+		},
+		{
+			"file": "src/layer.cpp",
+			"settings":
+			{
+				"buffer_size": 3671,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/neuron.cpp",
+			"settings":
+			{
+				"buffer_size": 1154,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "#include \"include/neuron.hpp\""
+			}
+		},
+		{
+			"file": "src/include/net.hpp",
+			"settings":
+			{
+				"buffer_size": 1652,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/include/layer.hpp",
+			"settings":
+			{
+				"buffer_size": 1436,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/include/neuron.hpp",
+			"settings":
+			{
+				"buffer_size": 984,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "#ifndef NEURON_HPP"
+			}
+		},
+		{
+			"file": "src/include/config.hpp",
+			"settings":
+			{
+				"buffer_size": 611,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "#ifndef _CONFIG_HPP_"
+			}
+		},
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 2573,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"vi",
+				"View: Toggle Menu"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 137.0,
+		"history":
+		[
+			"help",
+			"ls",
+			"ll"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/riccardoalidori/Projects/ClassNN",
+		"/home/riccardoalidori/Projects/ClassNN/src",
+		"/home/riccardoalidori/Projects/ClassNN/src/include"
+	],
+	"file_history":
+	[
+		"/home/riccardoalidori/Projects/ClassNN/src/include/layer.hpp",
+		"/home/riccardoalidori/Projects/ClassNN/data/training/train_in_prova2.txt",
+		"/home/riccardoalidori/Projects/ClassNN/model/model.mdl",
+		"/home/riccardoalidori/Projects/ClassNN/Makefile2",
+		"/home/riccardoalidori/Documents/TestingFaultTolerance/Contest/AssignmentGroup14_Alidori_Iurlano/scripts/stil_parser_mul.py",
+		"/home/riccardoalidori/Documents/TestingFaultTolerance/Contest/AssignmentGroup14_Alidori_Iurlano/scripts/stil_parser.py",
+		"/home/riccardoalidori/Documents/TestingFaultTolerance/Contest/AssignmentGroup14_Alidori_Iurlano/scripts/mats_parser.py",
+		"/home/riccardoalidori/Projects/ClassNN/Makefile",
+		"/home/riccardoalidori/Projects/ClassNN/src/include/layer.cpp",
+		"/home/riccardoalidori/Documents/BigData/HelloWorld.java",
+		"/home/riccardoalidori/Documents/BigData/helloworld.java",
+		"/home/riccardoalidori/Projects/NeuralNetwork_tmp/model/model.mdl",
+		"/home/riccardoalidori/Projects/NeuralNetwork/src/main.cpp",
+		"/home/riccardoalidori/Projects/NeuralNetwork/src/mainOld.cpp",
+		"/home/riccardoalidori/Projects/NeuralNetwork/data/training/train_res.txt",
+		"/home/riccardoalidori/Projects/NeuralNetwork/data/training/train_in.txt",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/Datapath.core/ID_Stage.core/instruction_type.vhd",
+		"/home/riccardoalidori/Documents/TestingFaultTolerance/Contest/atpg_patterns.S",
+		"/home/riccardoalidori/Documents/TestingFaultTolerance/Contest/atpd_patterns_mul.S",
+		"/home/riccardoalidori/Documents/TestingFaultTolerance/Contest/asm_div_mul.S",
+		"/home/riccardoalidori/Documents/TestingFaultTolerance/Contest/asm_alu_rnd.S",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/Datapath.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/Datapath.core/MEM_Stage.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/Datapath.core/EX_Stage.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/Datapath.core/ID_Stage.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/Datapath.core/IF_Stage.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/constants.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/Datapath.core/EX_Stage.core/FW_Unit.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/asm/minv-rv_abs.s",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/tb/tb_RISCV.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/tb/DRAM.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/Datapath.core/ID_Stage.core/registerfile.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/tb/tb_DRAM.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/tb/IRAM.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/tb/tb_RISCV.v",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/asm/minv-rv.s",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/instructions.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/fields.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/ControlUnit.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/ControlUnit.core/instruction_type.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/ControlUnit.core/fields.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/ControlUnit.core/instructions.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/Datapath.core/IF_Stage.core/addr_sel.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/Datapath.core/IF_Stage.core/pc_inc.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/Datapath.core/IF_Stage.core/pc.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/Datapath.core/IF_Stage.core/ir.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/Datapath.core/IF_Stage.core/if_id.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/tb/tb_IRAM.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/Datapath.core/IF_Stage.core/addr_sel",
+		"/media/riccardoalidori/Data/Riccardo/Dati/Universita_Torino/Operating Systems/exams/2019_06_25/ex5.c",
+		"/home/riccardoalidori/Projects/NeuralNetwork/data/raw/img2data.py",
+		"/home/riccardoalidori/Projects/NeuralNetwork/data/1.txt",
+		"/home/riccardoalidori/Projects/NeuralNetwork/data/2.txt",
+		"/home/riccardoalidori/Projects/NeuralNetwork/data/3.txt",
+		"/home/riccardoalidori/Projects/NeuralNetwork/data/4.txt",
+		"/home/riccardoalidori/Projects/NeuralNetwork/data/5.txt",
+		"/home/riccardoalidori/Projects/NeuralNetwork/data/6.txt",
+		"/home/riccardoalidori/Projects/NeuralNetwork/data/7.txt",
+		"/home/riccardoalidori/Projects/NeuralNetwork/data/8.txt",
+		"/home/riccardoalidori/Projects/NeuralNetwork/data/9.txt",
+		"/home/riccardoalidori/Projects/NeuralNetwork/data/0.txt",
+		"/home/riccardoalidori/Projects/NeuralNetwork/data/img2data.py",
+		"/home/riccardoalidori/Downloads/get-pip.py",
+		"/tmp/mozilla_riccardoalidori0/zero.c",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/Datapath.core/pc_unit.vhd",
+		"/home/riccardoalidori/Projects/NeuralNetwork/src/main.cpp.old",
+		"/home/riccardoalidori/Projects/NeuralNetwork/model/model.mdl",
+		"/home/riccardoalidori/Projects/NeuralNetwork/src.bak/main.cpp",
+		"/home/riccardoalidori/Projects/NeuralNetwork/Makefile",
+		"/home/riccardoalidori/Projects/NeuralNetwork/data/training/train.txt",
+		"/home/riccardoalidori/Projects/NeuralNetwork/src/include/config.hpp",
+		"/home/riccardoalidori/Projects/NeuralNetwork/src/include/main.hpp",
+		"/home/riccardoalidori/Projects/NeuralNetwork/src/model.cpp",
+		"/home/riccardoalidori/Projects/NeuralNetworks/src/include/main.hpp",
+		"/home/riccardoalidori/Projects/NeuralNetworks/src.bak/main.cpp",
+		"/home/riccardoalidori/Projects/NeuralNetworks/src/include/config.hpp",
+		"/home/riccardoalidori/Projects/NeuralNetworks/src/main.cpp",
+		"/home/riccardoalidori/Projects/NeuralNetworks/data/training/train.txt",
+		"/home/riccardoalidori/Projects/NeuralNetworks/src/model.cpp",
+		"/home/riccardoalidori/Projects/NeuralNetworks/Makefile",
+		"/home/riccardoalidori/Projects/NeuralNetworks/src.bak/Makefile2",
+		"/home/riccardoalidori/Projects/NeuralNetworks/src/config.hpp",
+		"/home/riccardoalidori/Projects/NeuralNetworks/src/main.hpp",
+		"/home/riccardoalidori/Projects/NeuralNetworks/Makefile1",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/Datapath.core/EX_Stage.core/ALU.core/ABS_Unit.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/Datapath.core/EX_Stage.core/ALU.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/Datapath.core/ID_Stage.core/extender.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/FFD.vhd",
+		"/home/riccardoalidori/Projects/NeuralNetworks/src/main.h",
+		"/home/riccardoalidori/Projects/NeuralNetworks/main.cpp",
+		"/home/riccardoalidori/Documents/TestingFaultTolerance/Contest/asm.S",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/Datapath.core/EX_Stage.core/ALU_Types.vhd",
+		"/opt/sublime_text/sublime.py",
+		"/home/riccardoalidori/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/riccardoalidori/Downloads/Social_Tracker_Display.ino",
+		"/home/riccardoalidori/Documents/TestingFaultTolerance/Contest/asmGen.py",
+		"/home/riccardoalidori/Documents/TestingFaultTolerance/Contest/rnd1.txt",
+		"/home/riccardoalidori/Documents/TestingFaultTolerance/Contest/rnd2.txt",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB_2/mult1_std/tb/data_sink.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB_2/mult2_pipe/tb/tb_fpmul.v",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/tb/tb_ABS_Unit.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/Datapath.core/EX_Stage.core/ALU.core/untitled.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/mux2to1.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/tb/tb_ALU.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/RISCV.core/mux4to1.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB_2/mult1_std/tb/tb_fpmul.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB_2/mult1_std/syn/scripts/synthesis_PPARCH.tcl",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB_2/mult3_booth/src/fpuvhdl/multiplier/fpmul_stage2_struct.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB_2/mult1_std/tb/tb_fpmul.v",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB_2/mult1_std/tb/tb_iir.v",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB_2/mult3_booth/tb/tb_fpmul.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/ControlUnit/ControlUnit.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB3/src/Datapath/datapath.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB_2/mult1_std/tb/data_maker.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB_2/mult2_pipe/tb/tb_fpmul.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB_2/mult1_std/src/fpuvhdl/multiplier/fpmul_pipeline.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB_2/mult3_booth/src/booth/src/dadda/src/dadda.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB_2/src/booth/src/booth.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB_2/sim/fp_results.txt",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB_2/tb/data_sink.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB_2/src/fpuvhdl/multiplier/fpmul_stage2_struct.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB_2/tb/fp_prod.hex",
+		"/home/riccardoalidori/Documents/chatClient.c",
+		"/home/riccardoalidori/Documents/chatSocket.c",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB_2/src/booth/tb/tb_booth.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB_2/src/booth/src/dadda/src/dadda.vhd",
+		"/home/riccardoalidori/Documents/ISA/ISA_LAB_2/src/booth/src/dadda/C/src/main.c"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"deltaError",
+			"Cols",
+			"tmp",
+			"trainInMatrix",
+			"f_out",
+			"f_in",
+			"}\n",
+			"trainout",
+			"trainin",
+			"trainIn",
+			");\n",
+			"printWeights",
+			"previousLayer.getLayerSize()",
+			"prevLayerSize",
+			"1",
+			"L.",
+			"N.",
+			"trainOut",
+			"L",
+			"->",
+			"this->",
+			"LAYER",
+			"double",
+			"NEURON_HPP",
+			"}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"cols",
+			"",
+			"f_res",
+			"currentTrainOut",
+			"currentTrainIn",
+			"neurons.",
+			"layers.",
+			"",
+			"MATRIX"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 873,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								738,
+								738
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include <iostream>",
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/net.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8711,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3316,
+								3316
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include \"include/matrix.hpp\"",
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 16.0,
+						"translation.y": 855.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/layer.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3671,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/neuron.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1075,
+								1075
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include \"include/neuron.hpp\"",
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "src/include/net.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								737,
+								737
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/include/layer.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1436,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/include/neuron.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 984,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#ifndef NEURON_HPP",
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/include/config.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								581,
+								581
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#ifndef _CONFIG_HPP_",
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2573,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1099,
+								1099
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 532.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.61762780742,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 0.0
+	},
+	"output.stino_panel":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ClassNN.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/ISA/RISCV.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 130.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

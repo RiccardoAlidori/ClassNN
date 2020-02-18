@@ -1,0 +1,37 @@
+// Model created on : Mon Feb 10 12:57:40 2020
+// numInputNodes
+3
+// numHiddenLayers
+2
+// numHiddenNodes 0
+2
+// numHiddenNodes 1
+2
+// numOutputNodes
+2
+// numTrainingSets
+0
+// hiddenWeights
+0.840188
+0.394383
+0.783099
+0.79844
+0.911647
+0.197551
+0.335223
+0.76823
+0.277775
+0.55397
+// outputWeights
+0.95223
+0.916195
+0.635712
+0.717297
+// hiddenLayerBias
+0.477397
+0.628871
+0.364784
+0.513401
+// outputLayerBias
+0.141603
+0.606969
